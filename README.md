@@ -2,7 +2,7 @@
 
 ## Overview
 
-ParetoPick-R is a based on code developed by Dr. Cordula Wittekind as part of the Horizon Europe funded [OPTAIN project](https://www.optain.eu/). The code presented here is a comprehensive Shiny web application designed for analyzing Pareto optimization results through advanced clustering and visualization techniques. The application provides tools for exploring multi-objective optimization solutions, performing correlation analysis, applying Principal Component Analysis (PCA), and implementing clustering algorithms to identify representative solutions from Pareto fronts.
+ParetoPick-R is based on [code](https://github.com/cowitt/ParetoPick-R) developed by Dr. Cordula Wittekind as part of the Horizon Europe funded [OPTAIN project](https://www.optain.eu/). The code presented here is a comprehensive Shiny web application designed for analyzing Pareto optimization results through advanced clustering and visualization techniques. The application provides tools for exploring multi-objective optimization solutions, performing correlation analysis, applying Principal Component Analysis (PCA), and implementing clustering algorithms to identify representative solutions from Pareto fronts.
 
 ## Features
 
